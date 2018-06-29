@@ -7,7 +7,7 @@
 Run the following command in the plugin directoy:
 
 ```shell
-npm i --save @blueeast/bluerain-plugin-name
+yarn add @blueeast/bluerain-plugin-name
 ```
 
 Then in your boot function, pass the plugin like this:
