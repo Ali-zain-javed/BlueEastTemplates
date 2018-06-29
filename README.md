@@ -5,10 +5,10 @@ This respo contains code and documentation templates to follow across all bluera
 ## Documentation
 
 ### Plugin Readme
-[!Plugin Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/PluginTemplate.md)
+[Plugin Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/PluginTemplate.md)
 
 ### App Readme
-[!App Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/AppTemplate.md)
+[App Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/AppTemplate.md)
 
 ### Component Readme
-[!Component Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/ComponentTemplate.md)
+[Component Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/ComponentTemplate.md)
