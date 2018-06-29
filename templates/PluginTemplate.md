@@ -68,11 +68,11 @@ This hook gives the ability to < description of what hook will do >
 
 ```javascript
 import BR from '@blueeast/bluerain-os';
-import withReactRouter from './withReactRouter';
+import withComponent from './withComponent';
 BR.Filters.add('bluerain.system.app',  (
             App: typeof React.Component
         ) =>{
-            return withReactRouter(App, client);
+            return withComponent(App, client);
         });
     }
 ```
@@ -98,5 +98,9 @@ Extends < official library/plugin name >  to add < xyz > capabilities to BlueRai
 
 #### **Properties**
 
-- `pluginName` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** "ReactRouterPlugin"
-- `slug` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** "router"
+- `pluginName` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** "PluginName"
+- `slug` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** "plugin-name"
+
+### Screenshots
+
+<Add screenshots if applicable>
