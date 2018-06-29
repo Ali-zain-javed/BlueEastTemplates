@@ -4,7 +4,7 @@
 
 | 🌏 Web | 🖥 Electron | 📱 React Native |
 | :---: | :--------: | :------------: |
-|   ✅   |     ✅      |       ✅        |
+|   :heavy_check_mark:   |     :heavy_check_mark:      |     :heavy_multiplication_x:     |
 
 ## Universal Props
 
