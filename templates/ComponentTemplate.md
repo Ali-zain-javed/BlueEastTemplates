@@ -28,6 +28,11 @@ const ComponentSample = () => (
 
 export default ComponentSample;
 ```
+## Localization Support
+< list supported languages >
+
+## RTL
+<RTL Support>
 
 ## Storybook
 
@@ -36,3 +41,6 @@ export default ComponentSample;
 ## Tests
 
 - Write the test description statement to have an overview what tests are being covered. This should be synced with your unit tests.
+
+## Screenshots
+<Attach screenshots if applicable>
