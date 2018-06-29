@@ -1,6 +1,6 @@
-# ReadMeTemplates
+# BlueEastTemplates
 
-This respo contains code and documentation templates to follow across all bluerain projects.
+This repo contains code and documentation templates to follow across all bluerain projects.
 
 ## Documentation
 
