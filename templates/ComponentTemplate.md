@@ -1,4 +1,4 @@
-# Component Name
+# :outbox_tray: Component Name
 
 ## Compatibility
 
