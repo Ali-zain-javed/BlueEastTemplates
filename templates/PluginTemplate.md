@@ -36,7 +36,7 @@ More Info: < attach links to web or native official links if applicable >
 
 #### Component Two
 
-< One liner desxcription of the component >
+< One liner description of the component >
 
 More Info: More Info: < attach links to web or native official links if applicable >
 
