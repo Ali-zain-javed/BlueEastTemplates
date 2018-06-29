@@ -32,7 +32,6 @@ export default ComponentSample;
 ## Storybook
 
 - Include guide of how to run  and see component in action in storybook
-- List all  the stories with input props
 
 ## Tests
 
