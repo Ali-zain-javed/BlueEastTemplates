@@ -1,4 +1,4 @@
-# BlueRain < Name > App
+# :iphone: BlueRain < Name > App
 
 Description of app
 
@@ -8,7 +8,8 @@ Description of app
 
 | 🌏 Web | 🖥 Electron | 📱 React Native |
 | :---: | :--------: | :------------: |
-|   ✅   |     ✅      |       ✅        |
+| :heavy_check_mark:  | :heavy_check_mark: | :heavy_multiplication_x: |
+
 
 ## Installation
 

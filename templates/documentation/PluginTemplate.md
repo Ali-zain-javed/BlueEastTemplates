@@ -1,4 +1,4 @@
-# Plugin Name
+# :electric_plug: Plugin Name
 
 <Description of plugin. If this plugin is built upon some official library, attach link to those official libraries.>
 
