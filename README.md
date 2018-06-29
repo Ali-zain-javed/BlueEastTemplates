@@ -4,11 +4,11 @@ This repo contains code and documentation templates to follow across all bluerai
 
 ## Documentation
 
-### Plugin Readme
+### :electric_plug: Plugin Readme
 [Plugin Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/PluginTemplate.md)
 
-### App Readme
+### :iphone: App Readme
 [App Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/AppTemplate.md)
 
-### Component Readme
+### :outbox_tray: Component Readme
 [Component Readme](https://github.com/BlueEastCode/BlueEastTemplates/blob/master/templates/ComponentTemplate.md)
