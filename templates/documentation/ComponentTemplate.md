@@ -43,4 +43,6 @@ export default ComponentSample;
 - Write the test description statement to have an overview what tests are being covered. This should be synced with your unit tests.
 
 ## Screenshots
-<Attach screenshots if applicable>
+| 🌏 Web | 🖥 Electron | 📱 React Native |
+| :---: | :--------: | :------------: |
+|   :heavy_check_mark:   |  :heavy_check_mark:   |  :heavy_multiplication_x:  |
