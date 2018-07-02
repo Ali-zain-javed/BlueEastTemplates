@@ -10,7 +10,6 @@ Description of app
 | :---: | :--------: | :------------: |
 | :heavy_check_mark:  | :heavy_check_mark: | :heavy_multiplication_x: |
 
-
 ## Installation
 
 Run the following command in the plugin directoy:
@@ -59,9 +58,9 @@ This app provide the following hooks to dynamically modify it's behavior:
 
 In addition to hooks, the app also registers various components that work as building blocks to generate the layout.
 
-### SettingsLayout
+### Component One
 
-This is the main layout component and is the top level visible view of the app. This layout can also be reused to create setting sections in other apps and plugins.
+< Description of component >
 
 #### **Props**
 
@@ -71,4 +70,20 @@ This is the main layout component and is the top level visible view of the app. 
   | ----------- | ------------------------------------------------------------ |
   | Type        | String                                                       |
   | Required    | ✅                                                            |
-  | Description | This is the path of the page where this layout is used. It is used to build sub pages/routes for each settings item. |
+  | Description | < description ... > |
+
+- `name`
+
+  | Label       | Value                                                        |
+  | ----------- | ------------------------------------------------------------ |
+  | Type        | String                                                       |
+  | Required    | ✘                                                          |
+  | Description | < description ... > |
+
+## Localization Support
+
+< list supported languages >
+
+## RTL
+
+< RTL Support >

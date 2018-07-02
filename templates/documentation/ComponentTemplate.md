@@ -7,9 +7,10 @@
 |   :heavy_check_mark:   |     :heavy_check_mark:      |     :heavy_multiplication_x:     |
 
 ## Screenshots
+
 | 🌏 Web | 🖥 Electron | 📱 React Native |
 | :---: | :--------: | :------------: |
-|   :heavy_check_mark:   |  :heavy_check_mark:   |  :heavy_multiplication_x:  |
+| ![Web](/templates/documentation/WebDrawer.png)|  ![Web](/templates/documentation/WebDrawer.png)   |  ![android image](/templates/documentation/AndroidDrawer.png)   |
 
 ## Universal Props
 
@@ -33,11 +34,14 @@ const ComponentSample = () => (
 
 export default ComponentSample;
 ```
+
 ## Localization Support
+
 < list supported languages >
 
 ## RTL
-<RTL Support>
+
+< RTL Support >
 
 ## Storybook
 
