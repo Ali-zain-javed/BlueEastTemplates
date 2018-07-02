@@ -2,6 +2,14 @@
 
 <Description of plugin. If this plugin is built upon some official library, attach link to those official libraries.>
 
+| 🌏 Web | 🖥 Electron | 📱 React Native |
+| :---: | :--------: | :------------: |
+|   :heavy_check_mark:   |     :heavy_check_mark:      |     :heavy_multiplication_x:     |
+
+
+### Screenshots
+<Add screenshots if applicable>
+
 ## Usage
 
 Run the following command in the plugin directoy:
@@ -100,7 +108,3 @@ Extends < official library/plugin name >  to add < xyz > capabilities to BlueRai
 
 - `pluginName` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** "PluginName"
 - `slug` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** "plugin-name"
-
-### Screenshots
-
-<Add screenshots if applicable>
