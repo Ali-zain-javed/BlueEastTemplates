@@ -34,7 +34,7 @@ BR.boot({
 < List all the components that this plugin  is registering in Component registery>
 This plugin registers following components in the Component registry, so they can be reused later by other apps and plugins
 
-### Component One < Use this component template if a custom component is being registered in BlueRain >
+### Component One <Use this component template if a custom component is being registered in BlueRain >
 
 < Description of component >
 
@@ -61,7 +61,7 @@ This plugin registers following components in the Component registry, so they ca
 ``` <Button /> ```
 
 
-### Component Two < Use this component template if some component from an official library is being registered in bluerain. for Example Apollo GraphQLQuery >
+### Component Two <Use this component template if some component from an official library is being registered in bluerain. for Example Apollo GraphQLQuery >
 
 
 < One liner description of the component >
